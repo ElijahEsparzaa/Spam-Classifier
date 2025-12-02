@@ -42,7 +42,7 @@ SpamClassifier/
     README.md                 # Project documentation
 
         data/
-             emails.csv            # Dataset used for training and evaluation
+            - emails.csv            # Dataset used for training and evaluation
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
