@@ -138,9 +138,9 @@ python spam_classifier.py
 
 You will see the following interface:
 
-==============================
+(==============================
   Spam Email Classifier (NB)
-==============================
+==============================)
 
 Choose an option:
   1) Classify pasted email text
