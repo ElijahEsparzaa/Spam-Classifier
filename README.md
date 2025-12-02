@@ -37,12 +37,12 @@ FEATURES
 Project Structure
 
 SpamClassifier/
-│
-├── spam_classifier.py        # Main executable script
-├── README.md                 # Project documentation
-│
-└── data/
-    └── emails.csv            # Dataset used for training and evaluation
+
+    spam_classifier.py        # Main executable script
+    README.md                 # Project documentation
+
+        data/
+             emails.csv            # Dataset used for training and evaluation
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
