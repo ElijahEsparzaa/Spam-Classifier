@@ -58,6 +58,7 @@ def build_pipeline():
             stop_words=english_stopwords,
             max_df=0.95,
             min_df=2,
+            ngram_range=(1,2)
         )),
         ("clf", MultinomialNB())
     ])
